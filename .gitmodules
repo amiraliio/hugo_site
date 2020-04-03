@@ -1,0 +1,9 @@
+[submodule "themes/KeepIt"]
+	path = themes/KeepIt
+	url = https://github.com/dc00der/KeepIt.git
+[submodule "dc00der.github.io"]
+	path = dc00der.github.io
+	url = https://github.com/dc00der/dc00der.github.io.git
+[submodule "bitcodr.github.io"]
+	path = bitcodr.github.io
+	url = https://github.com/bitcodr/bitcodr.github.io.git
