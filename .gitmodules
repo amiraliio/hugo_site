@@ -1,6 +1,6 @@
 [submodule "themes/KeepIt"]
 	path = themes/KeepIt
-	url = https://github.com/bitcodr/KeepIt.git
+	url = https://github.com/bitcodr/KeepIt.git 
 [submodule "bitcodr.github.io"]
 	path = bitcodr.github.io
 	url = https://github.com/bitcodr/bitcodr.github.io.git

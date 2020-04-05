@@ -6,6 +6,6 @@ description: Hello World, I'm starting blogging
 categories:
  - My Story
 featured_image:
-author: "amiraliio"
+author: "Amirali"
 ---
 Hello World, I'll start blogging about software development, engineering, and my experiences.
